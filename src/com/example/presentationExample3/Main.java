@@ -29,6 +29,8 @@ public class Main {
 //          returns a List<Double> from it if the number of the elements is odd.
 //        How can I save the return value in a reference?
 
+//        Vaskoek! Nem Object-be rakjuk!!!
+
         List myNumberList2 = myIntegerList;
         List<?> myNumberList3 = myIntegerList;
 
